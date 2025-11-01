@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey+there!+Khushi+Here!!+👋;Welcome+to+my+GitHub+Universe+🌌" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&pause=1000&color=FF6700&center=true&vCenter=true&width=650&lines=Hey+there!+Khushi+Here!!+👋;✨+Welcome+to+my+GitHub+Universe+✨" alt="Typing Animation" />
 </h1>
+
+
 
 <p >
   <!-- Profile Views - Blue -->
