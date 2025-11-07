@@ -69,15 +69,6 @@
 </td></tr></table>  
 <br/>
 
-## 🚀 Featured Projects
-| Project | Description | Tech |
-|----------|-------------|------|
-| [🌐 Personal Portfolio](https://github.com/KhushiPatel/portfolio) | My personal website featuring projects & résumé | HTML, CSS, Bootstrap |
-| [🧮 PyBaseConvertor](https://github.com/KhushiPatel/PyBaseConvertor) | Converts numbers between binary, decimal, and hexadecimal | Python |
-| [📅 ChronoSlate](https://github.com/KhushiPatel/ChronoSlate) | Interactive web calendar for booking appointments | HTML, CSS, JS |
-| [🛒 Receipt System](https://github.com/KhushiPatel/ReceiptSystem) | Object-oriented receipt generator project | Java |
-
-
 ## 🏆 Highlights
 - Dean’s List & President’s List Honoree  
 - Level 1 Ambassador, Ontario Tech University
