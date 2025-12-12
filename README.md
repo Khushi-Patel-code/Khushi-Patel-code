@@ -23,9 +23,9 @@
 
 ## 👧 About Me
 - I love building creative and functional web apps that solve real-world problems  
-- Ask me about Python, Java, or full-stack development — I love collaborating and sharing ideas 
+- Ask me about Python, Java, or full-stack development. I love collaborating and sharing ideas 
 - Currently deeping my Data Structures & Algorithms and exploring Shell scirpting
-- ✨ Fun fact: I’m passionate about astronomy and have taken it as an academic course — I know my way around telescopes! Outside of tech, I love baking, drawing, and designing. Listening to music and reading science fiction is my safe space.
+- ✨ Fun fact: I’m passionate about astronomy and have taken it as an academic course. I know my way around telescopes! Outside of tech, I love baking, drawing, and designing. Listening to music and reading science fiction is my safe space.
 
 
 ## 🧑‍💻 Skills  
